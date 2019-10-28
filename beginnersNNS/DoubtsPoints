@@ -1,0 +1,9 @@
+Hurdles:
+1. Variable redeclaration
+2. PYplot imshow, either 2D image or 3D with last layer 3/4 only
+3. 
+
+
+Doubts:
+1. How to use tensorflow graph for predictions?
+
